@@ -17,5 +17,5 @@ Spring-Based Wrist Rehabilitation Device using Soft Robotics
 - More projects coming soon...
 
 ## 📫 Contact
-- Email: your email
-- LinkedIn: your link
+- Email: sarjilsajid@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sarjil-ahmad?utm_source=share_via&utm_content=profile&utm_medium=member

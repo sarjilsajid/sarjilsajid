@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sarjil Ahmad 👋
 
-<!--
-**sarjilsajid/sarjilsajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Mechatronics & Robotics Engineering – University of Leeds  
+🤖 Focus: Soft Robotics | Rehabilitation Devices | Control Systems  
 
-Here are some ideas to get you started:
+## 🔧 Current Project
+Spring-Based Wrist Rehabilitation Device using Soft Robotics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- Python, MATLAB  
+- Arduino, Embedded Systems  
+- SolidWorks (CAD)  
+- Control Systems  
+
+## 📂 Projects
+- Soft Robotic Wrist Rehab Device (ongoing)
+- More projects coming soon...
+
+## 📫 Contact
+- Email: your email
+- LinkedIn: your link
